@@ -1,0 +1,24 @@
+random message generator project plans:
+
+Javascript program that on run generates a random message. javascript program contains:
+
+- contains three variables with strings
+- contains an array of 3 elemets to be randomly generated into each string
+- operational functions
+
+Functions include:
+
+- a function to compile the random message 
+	- a nested function to loop through the array of elements and randomly select one element
+	- a string interpolation of the random element added to its associated string
+	- a console.log return of the final random message string
+   
+
+string 1 - "if you woke up today, ____________" 
+random elements - (hit the gym, get some bread, be a real one)
+
+string 2 - "by the end of this month you need to _____________" 
+random elements - (level up, move silent, stunt on em)
+
+string 3 - "__________" 
+random elements - (ayyyyy do ya thang bwa!, u need 2 get rite goofy!, it's Many Men that wish death upon you!)
